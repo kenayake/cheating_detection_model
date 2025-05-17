@@ -1,0 +1,7 @@
+dataset/
+.vscode/
+saved_checkpoints/
+*.pt
+test_data
+*.pyc
+runs/
